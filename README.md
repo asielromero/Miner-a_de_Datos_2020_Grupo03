@@ -8,3 +8,9 @@
 
 
 [Ejercicio_1_03](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Ejercicio1.pdf)
+
+
+[RESÚMENES](https://github.com/asielromero/Mineria_de_Datos_2020_Grupo03/blob/master/RESUMENES_1937895.pdf)
+
+
+[MAPA MENTAL 2]
