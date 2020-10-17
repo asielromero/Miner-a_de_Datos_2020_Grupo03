@@ -14,3 +14,6 @@
 
 
 [MAPA MENTAL 2](https://github.com/asielromero/Mineria_de_Datos_2020_Grupo03/blob/master/MapaMental_2_%7B1937895%7D.pdf)
+
+
+[TAREA BASE DE DATOS](https://github.com/asielromero/Mineria_de_Datos_2020_Grupo03/blob/master/AnalisisBD_1937895.pdf)
