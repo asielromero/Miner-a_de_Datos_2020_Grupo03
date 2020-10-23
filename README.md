@@ -17,3 +17,6 @@
 
 
 [TAREA BASE DE DATOS](https://github.com/asielromero/Mineria_de_Datos_2020_Grupo03/blob/master/AnalisisBD_1937895.pdf)
+
+
+[Phyton Básico](https://github.com/asielromero/Mineria_de_Datos_2020_Grupo03/blob/master/PhytonBasico_1937895.ipynb)
