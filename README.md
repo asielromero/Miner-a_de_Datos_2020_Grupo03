@@ -20,3 +20,6 @@
 
 
 [Phyton Básico](https://github.com/asielromero/Mineria_de_Datos_2020_Grupo03/blob/master/PhytonBasico_1937895.ipynb)
+
+
+[Avance 1](https://github.com/christiangarza1505813/fcfm/blob/master/Avance1-Pia_Equipo3_Grupo3.pdf)
