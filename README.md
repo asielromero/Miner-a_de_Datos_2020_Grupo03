@@ -28,4 +28,4 @@
 [Ejercicio phyton Minería de datos](https://github.com/asielromero/Mineria_de_Datos_2020_Grupo03/blob/master/Ejercicios%20phyton%20Mineria%20de%20datos.ipynb)
 
 
-[Avance 2]()
+[Avance 2](https://github.com/asielromero/Mineria_de_Datos_2020_Grupo03/blob/master/Avance%202.ipynb)
